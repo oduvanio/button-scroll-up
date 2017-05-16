@@ -1,0 +1,6 @@
+{
+	"pub":["scrollTop"],
+	"js":"buttonUp.js",
+	"css":"buttonUp.css",
+	"scrollTop":100
+}
