@@ -2,8 +2,5 @@
 	"name": "oduvanio/button-scroll-up",
 	"description":"Кнопка прокрутки наверх для сайта",
 	"homepage":"https://github.com/oduvanio/button-scroll-up",
-	"license": "GPL3",
-	"require": {
-		"infrajs/config":"~1"
-	}
+	"license": "GPL3"
 }
