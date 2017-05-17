@@ -1,9 +1,20 @@
 .button-scroll-up {
+	display: none;
     position: fixed;
     height: 100%;
-    background: rgba(128,128,128,0.1);
+    background: rgba(255,255,255,0.3);
     width: 100px;
     left: 0;
     top: 0;
     cursor: pointer;
+    text-align: center;
+    letter-spacing: -1px;
+    padding-top: 15px;
+    transition-property: background;
+    transition-duration: 0.1s;
+    color: #3d6e8e;
+    font-weight: bold;
+}
+.button-scroll-up:hover {
+	background: rgba(255,255,255,0.7);
 }
