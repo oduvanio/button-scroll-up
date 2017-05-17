@@ -1,11 +1,11 @@
 .button-scroll-up {
 	display: none;
     position: fixed;
-    height: 100%;
+    height: 100px;
     background: rgba(255,255,255,0.3);
     width: 100px;
-    left: 0;
-    top: 0;
+    left: 15px;
+    bottom: 15px;
     cursor: pointer;
     text-align: center;
     letter-spacing: -1px;
@@ -14,6 +14,8 @@
     transition-duration: 0.1s;
     color: #3d6e8e;
     font-weight: bold;
+    border-radius: 50%;
+    padding-top: 40px;
 }
 .button-scroll-up:hover {
 	background: rgba(255,255,255,0.7);
