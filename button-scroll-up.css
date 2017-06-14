@@ -2,20 +2,21 @@
 	display: none;
     position: fixed;
     height: 100px;
-    background: rgba(255,255,255,0.3);
     width: 100px;
+    background: rgba(200,150,100,0.9);
     left: 15px;
     bottom: 15px;
     cursor: pointer;
     text-align: center;
-    letter-spacing: -1px;
-    padding-top: 15px;
     transition-property: background;
     transition-duration: 0.1s;
+    border-radius: 50%;
+}
+.button-scroll-up span {
+    display: block;
     color: #3d6e8e;
     font-weight: bold;
-    border-radius: 50%;
-    padding-top: 40px;
+    letter-spacing: -1px;
 }
 .button-scroll-up:hover {
 	background: rgba(255,255,255,0.7);
