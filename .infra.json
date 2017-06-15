@@ -1,6 +1,4 @@
 {
-  "pub":["scrollTop"],
- 	"js":"button-scroll-up.js",
- 	"css":"button-scroll-up.css",
- 	"scrollTop":100
- }
+	"pub":["scrollTop"],
+	"js":"button-scroll-up.js"
+}
