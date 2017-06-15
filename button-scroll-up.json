@@ -6,7 +6,7 @@
 	"left": 15,
 	"bottom": 15,
 	"borderRadius": 50,
-	"color": "green",
+	"color": "white",
 	"textTop": 40,
 	"textLeft": 30,
 	"fontWeight": "bold",
@@ -17,5 +17,5 @@
 	"iconTop": 40,
 	"iconLeft": 10,
 	"iconSize": 20,
-	"iconColor": "red"
+	"iconColor": "black"
 }
